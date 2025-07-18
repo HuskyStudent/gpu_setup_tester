@@ -2,7 +2,9 @@
 
 This repository contains a set of scripts for testing GPU availability, PyTorch CUDA performance, and Hugging Face model loading with GPU acceleration.
 
-## Scripts
+> **Status:** 🚧 *Still In Progress — more features and tests will be added soon!*
+
+## Scripts Overview
 
 - **GPUavail.py**  
   Checks if PyTorch can detect and utilize the GPU.
